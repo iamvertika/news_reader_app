@@ -1,6 +1,6 @@
 # 📰 News Reader App - Wizarding Edition 🪄
 
-Welcome to **News Reader App**, a Flutter-powered vintage-style news reader themed around the magical world of Harry Potter! Designed with love, wand-swirls, and coffee by **Vertika 💖** during her internship at **Brainwave Matrix Solution** as part of Task 2.
+Welcome to **News Reader App**, a Flutter-powered vintage-style news reader themed around the magical world of Harry Potter! Designed with love, wand-swirls, and coffee by **Vertika 💖** during my internship at **Brainwave Matrix Solution** as part of Task 2.
 
 ---
 
